@@ -1,0 +1,2 @@
+# ahkmap
+Visual AutoHotKey map.
