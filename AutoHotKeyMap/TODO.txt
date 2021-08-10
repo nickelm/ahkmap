@@ -1,0 +1,22 @@
+﻿------------------------------------------------
+TODO - AutoHotKeyMap
+------------------------------------------------
+
+Release 1:
+[X] Switch between half and full keyboard
+[X] Window title to show name of script
+[X] Rendering order
+[X] Multiple bindings per key
+[X] Rounded keys
+[X] Open website 
+[X] About window
+[X] Esc to close it down
+[X] Turn off window title and menu (toggle)
+[X] Repaint window during moving
+[X] Correct lines (turn if needed)
+[X] Start from command line with script name
+[X] Application icon
+[X] Put on GitHub
+
+Next release:
+[ ] Intelligent choice of full or half
